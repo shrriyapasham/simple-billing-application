@@ -1,0 +1,21 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.iml
+
+# Node / Frontend
+node_modules/
+dist/
+*.log
+
+# Maven / Java
+target/
+*.class
+
+# H2 Database
+data/
+*.db
